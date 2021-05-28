@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeverageCalculator", "LeverageCalculator.fsproj", "{19B905CF-DC73-4628-98EA-897C2C77E5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B905CF-DC73-4628-98EA-897C2C77E5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B905CF-DC73-4628-98EA-897C2C77E5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B905CF-DC73-4628-98EA-897C2C77E5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B905CF-DC73-4628-98EA-897C2C77E5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE14C66-9B46-4A33-A7A0-71EA3E80BF97}
+	EndGlobalSection
+EndGlobal
